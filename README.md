@@ -1,24 +1,24 @@
 #Features
 
-Data preprocessing and cleaningm,
-Exploratory Data Analysis (EDA),
-Machine Learning model for prediction,
-User-friendly prediction output,
-High accuracy with optimized model.
+Resume text extraction
+
+Job description analysis
+
+Skill matching using NLP
+
+Skill gap identification
+
+Match percentage calculation
 
 #Technologies Used
 
-Python,
-Pandas, NumPy,
-Matplotlib, Seaborn,
-Scikit-learn,
-Jupyter Notebook,
+Python
 
-#Dataset
+Natural Language Processing (NLP)
 
-The dataset contains medical attributes such as:
-Glucose level,
-Blood pressure,
-BMI,
-Age,
-Insulin level,
+Pandas, NumPy
+
+Scikit-learn
+
+Jupyter Notebook
+
